@@ -1,7 +1,7 @@
 # Ricard Marsal I Castan Personal Webpage <!-- omit in toc -->
 
-https://img.shields.io/github/issues/ricardmarsalcastan/ricardmarsalcastan.github.io
-[![License](https://img.shields.io/github/issues/ricardmarsalcastan/ricardmarsalcastan.github.io)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/ricardmarsalcastan/ricardmarsalcastan.github.io)](ISSUES)
+[![License](https://img.shields.io/github/license/ricardmarsalcastan/ricardmarsalcastan.github.io)](LICENSE)
 
 
 [Report Bug](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues) · [Request Feature](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
