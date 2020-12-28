@@ -1,7 +1,7 @@
 # Ricard Marsal I Castan Personal Webpage <!-- omit in toc -->
 
-[![Open Issues](https://badgen.net/github/open-issues/longpdo/neumorphism)](https://github.com/longpdo/neumorphism/issues)
-[![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
+[![Open Issues](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
+[![License](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/blob/master/LICENSE)](LICENSE)
 
 
 [Report Bug](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues) · [Request Feature](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
