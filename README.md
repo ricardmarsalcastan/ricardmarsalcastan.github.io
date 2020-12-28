@@ -1,6 +1,6 @@
 # Ricard Marsal I Castan Personal Webpage <!-- omit in toc -->
 
-[![Open Issues](https://badgen.net/github/open-issues/ricardmarsalcastan/ricardmarsalcastan)](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
+https://img.shields.io/github/issues/ricardmarsalcastan/ricardmarsalcastan.github.io
 [![License](https://badgen.net/github/license/ricardmarsalcastan/ricardmarsalcastan)](LICENSE)
 
 
