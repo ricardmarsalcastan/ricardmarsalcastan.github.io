@@ -19,7 +19,7 @@
 
 ## About The Project
 
-This is a personal website built with `Jekyll` and hosted on `Github Pages`, which is based on the new [Neumorphism](https://github.com/longpdo/neumorphism) design trend and was developed with a mobile-first approach. This can be used by developers, who want to showcase their resume and portfolio. If you want to use this for your own website, fork this repository and then refer to [personalize and customize](#personalize-and-customize).
+This is a personal website built with `Jekyll` and hosted on `Github Pages`, which is based on the new [Neumorphism](https://github.com/longpdo/neumorphism) design trend and was developed with a mobile-first approach.
 
 ### Built With
 
