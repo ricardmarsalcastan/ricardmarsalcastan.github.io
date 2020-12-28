@@ -1,7 +1,7 @@
 # Ricard Marsal I Castan Personal Webpage <!-- omit in toc -->
 
-[![Open Issues](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
-[![License](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/blob/master/LICENSE)](LICENSE)
+[![Open Issues](https://badgen.net/github/open-issues/ricardmarsalcastan/ricardmarsalcastan)](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
+[![License](https://badgen.net/github/license/ricardmarsalcastan/ricardmarsalcastan)](LICENSE)
 
 
 [Report Bug](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues) · [Request Feature](https://github.com/ricardmarsalcastan/ricardmarsalcastan.github.io/issues)
