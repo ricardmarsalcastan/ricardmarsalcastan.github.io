@@ -1,0 +1,14 @@
+<h1 class="title">{{site.my_journey_title}}</h1>
+
+{% for journey in site.data.journies %}
+	<div class="card inlineCard" data-aos="fade-up">
+		<div class="myJourneyImg">
+			<img src="{{journey.img}}">
+		</div>
+		<div>
+			<a href="{{journey.href}}" target="_blank"><h3>{{journey.name}}</h3></a>
+			<h4> <b>{{journey.subTitle}}</b>, {{journey.year}}</h4>
+			<p>{{journey.descr}}</p>
+		</div>		
+	</div>
+{% endfor %}

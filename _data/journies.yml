@@ -1,0 +1,35 @@
+- name: "RESEARCH"
+  subTitle: "Machine Learning and Genetic algorithms for Intrusion Detection"
+  year: "2020"
+  descr: "GMO (genetically modified organisms) are created by adding a gene from another organism or modify that gene on a lab.With CRISPR-Cas9 (Clustered Regularly Interspaced Short Palindromic Repeats) scientist can alter the DNA by cutting genome at a desired location, allowing existing genes to be removed and/or add new ones. In this paper we will be presenting a new algorithm that is inspired in the idea of GMO and CRISPR-Cas9. Using multiple Random Forests we will perform a selective breeding of decision trees to create a new Random Forest with better performance. Then during multiple generations, the GMO algorithm will select two trees of the new forest and will mix their nodes at a desired location of the tree to generate new modified trees. At the end of each generation, only the trees with better performance will remain in the Forest."
+  img: /assets/img/dna.jpg
+  href: "https://github.com/ricardmarsalcastan/cluster"
+
+- name: "FAIRMONT STATE UNIVERSITY"
+  subTitle: "B.S. Computer Science Cybersecurity & Mathematics Honors"
+  year: "2021"
+  descr: "Fairmont gave me the opportunity to meet great professors and staff that allowed me to push, expand, and challenge my knowledge. It gifted me with a love for learning. During the two years at Fairmont I did two research: Machine Learning and Genetics for Intrusion Detection Systems, and Probability of a Obtuse Triangle when Choosing three points. Both of them showed me two fields outside my classroom that thought me skill to develop and set the first stones of my own personal goals. Here I continued representing the school on the swim team and I worked as Resident Assistant to promote the growth and development of students by contributing to a sense of community and I helped to encourage responsible decision-making and accountability."
+  img: /assets/img/fairmontStateUniversityLogo.jpg
+  href: "https://www.fairmontstate.edu/"
+
+- name: "MERCURY CHALLENGE"
+  subTitle: "Team Leader"
+  year: "2018"
+  descr: "Mercury Challenge in an international robotics competition where competitors build a robot capable of performing a specific mission and it has to be operated remotely from at least 50 miles (80 km) away. I’m grateful of these experience because as a leader of the team and a freshman, it allowed me to coordinate two upper level students, manage all the travel expenses, I applied my skills in 3D design for the chassis and I met with wonderful people from Colombia and Oklahoma."
+  img: /assets/img/mercury.jpg
+  href: "https://www.dewv.edu/headline/de-students-build-3-d-printed-robot-international-competition"
+
+- name: "DAVIS AND ELKINS COLLAGE"
+  subTitle: "B.S. Computer Science and Mathematics"
+  year: "2017 - 2019"
+  descr: "Davis and Elkins not only gave me the opportunity to study what I love, it also gave me the opportunity to explore many areas outside my comfort zone and grow as a person. There I met many cultures and many people from other countries. D&E is where I learned to manage budgets. I supervised, as a freshman, the funds for each club and organization on campus dealing with a budget of $140,000. I was the president and founder of the Robotics Club, where I designed, executed and led the goals for the competitive team. Finally I represented the school as student ambassador and as a swimmer."
+  img: /assets/img/deLogo.jpg
+  href: "https://www.dewv.edu/"
+
+
+- name: "3D PRINTED DRONE FOR MEDICINE SUPPLY"
+  subTitle: "Summer Project"
+  year: "2016"
+  descr: "Montsant is a mountain located in the southern region of Catalonia, Spain. It’s home of many scorpions. If you get bite by one of them, or you get injured, the helicopter takes some time (30 to 40 min) before can get you. The idea was to create a drone that had a cooled medicine box that could provide medicine and first aid help before the helicopter could arrive. Thanks to this project I learned to use 3D printers but it also gave me a feeling that I was contributing to the community."
+  img: /assets/img/drone.png
+  href: "https://www.youtube.com/watch?v=2QgJLJ59bx4"

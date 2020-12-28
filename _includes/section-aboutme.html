@@ -1,0 +1,12 @@
+<h1 class="title">{{site.about_me_title}}</h1>
+<div class="inlineCard">
+	<div class="headshotImg" data-aos="fade-down">
+		<img src="/assets/img/headshot.png">
+	</div>
+	<div style="margin-top: 5%">
+		{% for char in site.data.aboutMe %}
+			<p class="description" data-aos="zoom-in">{{char.char}}</p>
+		{% endfor %}
+	</div>
+</div>
+
